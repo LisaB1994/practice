@@ -1,8 +1,172 @@
-{\rtf1\ansi\ansicpg1251\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-newslette\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+body {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #52503B;
+    background-color: #fff;
+}
 
-\f0\fs24 \cf0 .}
+.page-header{
+    color: #fff;
+    background-color: #52503B; 
+}
+
+.navigation-list{
+    list-style-type: none;
+}
+
+.navigation-link{
+    color: inherit;
+    text-decoration: none;
+}
+
+.button{
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.advantages-main-page{
+    min-width: 1440px;
+    min-height: 730px;
+    color: #FFFFFF;
+    background-color: #52503B;
+    background-image: url(../images/background/guest_house.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+}
+
+.advantages-main-page-title{
+    font-size: 48px;
+    line-height: 53px; 
+    font-weight: 400;
+}
+
+.advantages-main-page-desc{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.description-advantages{
+    background: #FAF8F0;
+    color: #333333;
+}
+
+.description-advantages-button{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    line-height: 20px; 
+    background-color: #52503B;
+    color: #FFFFFF;
+}
+
+.heading-advantage-title{
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 96px;
+}
+
+.image-dining-room{
+    min-height: 600px;
+    min-width: 1440px;
+    background-image: url(../images/background/dining_room.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.apartments{
+    background-color: #FAF8F0;
+}
+
+.title {
+    font-size: 32px;
+    line-height: 36px;
+    font-weight: 400;
+}
+
+.apartments-desc,
+.apartments-term,
+.advantages-text,
+.reviews-subtitle,
+.service-subtitle,
+.booking-subtitle{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.advantages-list-title{
+    font-weight: 400;
+
+}
+
+.advantages-list-desc{
+    color: #333333;
+}
+
+.reviews,
+.booking{
+    background-color: #FAF8F0;;
+}
+
+.reviews-wrapper-title{
+    font-size: 18px;
+    line-height: 24px;
+    color: #333333;
+    font-weight: 400;
+
+}
+
+.reviews-wrapper-text,
+.service-desc{
+    color: #333333;
+}
+
+.image-bedroom-room{
+    min-width: 1440px;
+    min-height:600px;
+    background-image: url(../images/background/dresser.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.page-footer{
+    background-color: #52503B;
+    color: #FFFFFF;
+}
+
+.footer-navigation-title,
+.footer-social-title,
+.newsletter-title{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.footer-navigation-list,
+.footer-social-list{
+    list-style-type: none;
+}
+
+.page-footer-contacts-address{
+    font-style: normal;
+
+}
+
+.footer-navigation-link,
+.footer-social-link,
+.page-footer-contacts-phone,
+.page-footer-contacts-email{
+    color: inherit;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
